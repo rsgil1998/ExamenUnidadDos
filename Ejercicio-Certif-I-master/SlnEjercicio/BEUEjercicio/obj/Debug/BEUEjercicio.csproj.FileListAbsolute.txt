@@ -1,0 +1,28 @@
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.dll.config
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.dll
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.pdb
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.dll
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.xml
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CopyComplete
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.dll
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.pdb
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diego\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.dll.config
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.pdb
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.xml
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CopyComplete
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\Ejercicio-Certif-I-master\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.pdb

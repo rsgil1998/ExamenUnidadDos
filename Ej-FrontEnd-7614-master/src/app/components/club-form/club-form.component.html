@@ -1,0 +1,21 @@
+<h3>{{title}}</h3>
+<br><br><br><br>
+
+<form [formGroup]="form" (ngSubmit)="onSubmit()" class="user">
+<fieldset>
+    <label>Nombre:</label>
+    <input formControlName="nombre" [(ngModel)]="club.nombre" type="text"  /><br>
+    <label>Descripción:</label>
+    <input formControlName="descripcion" [(ngModel)]="club.descripcion" type="text" /><br>
+    <label>Mínimo integrantes:</label>
+    <input formControlName="minimoIntegrantes" [(ngModel)]="club.minimoIntegrantes"  type="number" /><br>
+    <label>Máximo integrantes:</label>
+    <input formControlName="maximoIntegrantes" [(ngModel)]="club.maximoIntegrantes"  type="number" /><br>
+    <label>Instructor:</label>
+    <input formControlName="instructor" [(ngModel)]="club.instructor" type="text"  /><br>
+    <label>Lugar de Ensayos:</label>
+    <input formControlName="lugarEnsayos" [(ngModel)]="club.lugarEnsayos" type="text" /><br>
+    <button type="submit">Guardar</button><br>
+    <button type="reset" (click)="onReset()">Cancelar</button><br>
+</fieldset>
+</form>

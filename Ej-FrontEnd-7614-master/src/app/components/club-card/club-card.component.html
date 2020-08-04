@@ -1,0 +1,17 @@
+<h3>{{club.nombre | uppercase}}</h3>
+<fieldset>
+    <label>Nombre:</label>&nbsp;
+    <span>{{club.nombre}}</span><br>
+    <label>Descripción:</label>&nbsp;
+    <span>{{club.descripcion}}</span><br>
+    <label>Mínimos Integrantes:</label>&nbsp;
+    <span>{{club.minimoIntegrantes}}</span><br>
+    <label>Máximos Integrantes:</label>&nbsp;
+    <span>{{club.maximoIntegrantes }}</span><br>
+    <label>Instructor:</label>&nbsp;
+    <span>{{club.instructor}}</span>br
+    <label>Lugar de ensayo:</label>&nbsp;
+    <span>{{club.lugarEnsayos}}</span><br>
+    <button [routerLink]="['/club/list']" class="btn btn-sm btn-info" ><fa-icon [icon]="faListAlt"></fa-icon> Volver</button>
+
+</fieldset>
